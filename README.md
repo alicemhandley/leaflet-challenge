@@ -35,6 +35,8 @@ Create a legend that will provide context for your map data.
 
 My code: static/js/logic.js
 
+![image](https://github.com/alicemhandley/leaflet-challenge/assets/135322572/f9acaa92-019c-4205-aae3-e023f5f0b547)
+
 Resources used to help me write the code in logic.js:  
 git.bootcampcontent.com/University-of-Adelaide    
 ChatGTP  
