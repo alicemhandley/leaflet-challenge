@@ -33,6 +33,8 @@ Include popups that provide additional information about the earthquake when its
 
 Create a legend that will provide context for your map data.
 
+My code: static/js/logic.js
+
 Resources used to help me write the code in logic.js:  
 git.bootcampcontent.com/University-of-Adelaide    
 ChatGTP  
